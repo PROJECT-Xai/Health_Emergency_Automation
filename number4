@@ -1,23 +1,21 @@
 State Initiations 
--The  person who is need of medicine, will initiate a request throgh projectX site.
--The system will verify the person's identity by the use of primary key(ID number), then the system will create one-time password(OTP)
- associated with the request.The one-time password will be distributed through sms, or emails address.
+-The person who is need of medicine, will initiate a request through Project-X site.
+-The system will verify the person's identity by the use of primary key (ID number), then the system will create one-time password(OTP) associated with the request. The one-time password will be distributed through SMS, or emails address.
 
 Drone collection/package collections
 -The staff at the clinic will package and prepare the medication for delivery, based on the identification of the verification part.
- The drone will then retrive personal address from the clinic's database using the ID,and the delivery process will be activated.
- The drone will navigator and calculate the better route based on the weather traffic.From there the drone will send the estimated time 
- it would arrive at.
+-The drone will then retrieve personal address from the clinic's database using the ID, and the delivery process will be activated.
+-The drone will navigator and calculate the better route based on the weather traffic. From there the drone will send the estimated time it would arrive at.
 
 Medicine Security 
 -the OTP will act as a source of security for delivering for the right person.
--the medication will be packaged inside a package that is water, and heat resistance to protect the product .
+-the medication will be packaged inside a package that is water, and heat resistance to protect the product.
 -And the drone packaging will be locked, and the pin will be the OPT.
--The drone will using the solar for its source of energy.
+-The drone will use solar for its source of energy.
 
-The Delivary and Confirmation
--After reaching its destination for the medication delivery,it will prompt the user to enter the one-time Password.
+The Delivery and Confirmation
+-After reaching its destination for the medication delivery, it will prompt the user to enter the one-time Password.
 -The one-time password will then to its rest point using the same route to collect some more delivery based on the schedule.
--From there the drone will resert, and start preparing for the next delivary
+-From there the drone will reset, and start preparing for the next delivery.
 
-This process esures secure  and efficient medicine delivery, improving patient convenience.
+This process ensures secure and efficient medicine delivery, improving patient convenience.
