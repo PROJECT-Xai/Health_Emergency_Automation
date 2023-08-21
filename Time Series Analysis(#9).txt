@@ -1,0 +1,10 @@
+Time Series Analysis on Data for emergency drones, taking note of the theme "using AI to help underserved communities"___
+
+
+-Data collection and preparation:  The Drones will be enhacned with model that will collect and record historical data on emergency drone usage in underserved communities. The data will include variables luke date/time of deployment,location,mission type and responsive time. Clean and preprocess the data by handling missing values and converting date/time columns   
+
+-Reporting: The model will summarize th data findings in a clear and concise report,also use visuals and explanations to communicate the insights effectively.
+
+-forecasting: We are going to apply time series forecasting techniques to predict future drone deployments based on historical data.
+
+-Decomposition: decompose the time series data into its components: trends,seasonality and residuals, to help identify underlying patterns and trends
