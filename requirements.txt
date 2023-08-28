@@ -1,0 +1,42 @@
+This study delves into the critical factors, both internal and external, that lay the foundation for the effective integration of AI-powered autonomous drones into the healthcare delivery system. By examining each requirement and drawing information from reputable sources, this article provides a comprehensive approach to improving the safety, reliability, and performance of autonomous drones in medical settings. 1. Introduction: autonomous AI drones for medical delivery
+
+The importance of autonomous drones in healthcare access
+Understand both external and internal requirements
+2. External Requirements: Promoting a safe and ethical environment
+
+-Managing autonomous drones for rural, urban and disaster areas
+-Must comply with the regulations set by the Civil Aviation Authority, Aviation Control Board and the Ministry of Health
+-Ensure technological excellence for autonomous, reliable and accurate flight in various situations
+-Ensure the integrity of pharmaceutical shipments using advanced packaging, storage and temperature control systems
+-Improve interpersonal relationships through clear and respectful communication and friendly and confidential behavior
+-Assess the social, environmental and economic impact of drones by deploying services
+
+3. Objectives: Develop Drones with AI-based capabilities
+
+-Realizing the revolutionary potential of AI for obstacle detection and avoidance
+-Enable Drones and GPS-based AI-based navigation to overcome signal limitations.
+-Implement AI-based disaster management and emergency failure planning for resilience
+-Achieve accuracy and safety in drug delivery through AI based Airdrop and drop systems.
+
+ Conclusion: Unveiling the way forward for AI-based health benefits
+
+Summary of external and internal requirements
+Prospects for the Future of AI-Powered Autonomous Drones in Healthcare
+This refined model provides a standardized and comprehensive way to demonstrate the fundamentals of integrating AI-powered autonomous drones into healthcare services.
+It maintains a clear separation between external and internal elements to improve transparency and stability.
+
+
+informal referencing 
+sources 
+description: Medicine delivery by drone – implications for safety and quality
+url :https://www.europeanpharmaceuticalreview.com/article/103799/medicine-delivery-drone-safety-and-quality/
+
+
+description:Human drone interaction in delivery of medical supplies: A systematic review
+url:https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0267664
+
+description :The Essential Guide to Applying AI to the Drone Delivery Ecosystem
+url:https://www.cloudfactory.com/drone-delivery-ecosystem-guide
+
+description:
+url:https://www.forbes.com/sites/cindygordon/2021/10/31/advancing-ai-revenue-growth-insights-in-the-transportation-and-logistics-industry-series-blog-5/?sh=6ad193401049
