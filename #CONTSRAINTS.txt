@@ -1,0 +1,21 @@
+#CONTSRAINTS(INCORPORATING THE DRONE WITH AI)
+
+**Processing Power and Battery Life: AI algorithms can be computationally intensive, which may require significant processing power. This can impact the drone's battery life, affecting its flight time and operational efficiency.
+
+**Weight and Size Constraints: Drones must remain lightweight and compact for efficient flight. Incorporating AI components might lead to larger hardware, affecting the drone's maneuverability and overall design.
+
+**Data Privacy: AI algorithms often require access to sensitive data, such as imagery, personel information and location information. Ensuring the privacy and security of this data is crucial, especially in emergency situations involving individuals.
+
+**Limited Connectivity: Operating in remote or underserved areas might result in limited connectivity, affecting the drone's ability to communicate with remote servers for AI processing.
+
+
+
+#CONSTRAINTS(GENERAL)
+
+**Reliability: The drone must be designed with robust components and redundancy systems to ensure it operates reliably during emergencies and adverse conditions.
+
+**Safety: The drone's design should prioritize safety measures, including propeller guards, collision avoidance systems, and fail-safe mechanisms to prevent accidents.
+
+**Limited Connectivity: The AI incorporated into the drone should have the capability to operate autonomously or with limited connectivity, as underserved communities might lack reliable internet access.
+
+**Adverse Weather Conditions: The drone should be able to operate in various weather conditions, including rain, wind, and low visibility, to ensure its availability during emergencies.
