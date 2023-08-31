@@ -1,16 +1,24 @@
-Creating a drone system for delivering medications during health emergencies is a fascinating and impactful application of AI and deep learning. Below, I’ve outline some key areas of deep learning that can be applied to this project in point Form:
+Creating a drone system for delivering medications during health emergencies is a fascinating and impactful application of AI and deep learning. Deep learning can help drones 
+reach fully autonomous navigation by enabling them to interpret visual and other sensor data more accurately. Deep learning approaches in computer vision applications have made
+significant strides towards vehicular autonomy. The ability of training deep learning models to provide robust interpretation of visual and other sensor data in drones is critical 
+to the ability of drones to reach fully autonomous navigation. In addition, deep reinforcement learning for drone navigation using sensor data proposes a deep reinforcement 
+learning algorithm with incremental curriculum learning to improve training and an LSTM (long short-term memory networks) recurrent layer to allow the drone to learn from past experiences.
 
 Object Detection and Tracking:
-Implementing object detection and tracking using deep learning models like YOLO (You Only Look Once) or Faster R-CNN can help the drone identify and track individuals in need of medication delivery. This technology ensures accurate targeting of recipients.
+Implementing object detection and tracking using deep learning models like YOLO (You Only Look Once) or Faster R-CNN can help the drone identify and track individuals in need of medication 
+delivery. This technology ensures accurate targeting of recipients.
+
+There are several techniques including: 
+Transfer learning, multitask learning and curriculum learning. 
+We’ll be focusing on curriculum (sequence of training criteria) learning because it can begin learning in simulators with visual rendering and then the learned model can be fine-tuned in real-world applications.
+This is beneficial to our application; it allows us to use drone simulations to bootstrap the system and progress to drone flights. Curriculum learning starts with a simple task and gradually increases the 
+complexity of the task as learning progresses until we reach the training criterion of interest. It does not forget previously learned instances.
 
 Weather and Environmental Data Analysis:
 With this Point the deep learning can analyze weather and environmental data to determine optimal times for deliveries and ensure the safety of both the drone and recipients.
 
 Data Privacy and Security:
 With the Privacy and Security point it can assist in ensuring data privacy and security during the drone's operations by detecting unauthorized access or breaches.
-
-Medication Recognition:
-models can be trained to recognize different types of medication packages, ensuring the correct medication is delivered to recipients.
 
 Semantic Segmentation:
 Semantic segmentation models, such as U-Net or DeepLab, can be used to segment different areas of the community, identifying suitable landing zones for drone deliveries and avoiding obstacles.
@@ -21,26 +29,27 @@ Deep reinforcement learning can be used to optimize drone flight paths based on 
 Real-time Image Analysis:
 Using deep learning models, the drone's camera feed can be analyzed in real time to detect emergencies, such as accidents or medical incidents, allowing for immediate response and assistance.
 
-Natural Language Processing (NLP):
-Integrating NLP capabilities can help the drone communicate with residents through voice or text, providing information about the delivery process, verifying identities, and answering questions.
-
 Automated Landing and Takeoff:
 Deep learning algorithms can aid in automating the drone's landing and takeoff procedures, ensuring precise landings even in challenging environments.
 
 Risk Assessment:
 Deep learning can be used to analyze historical and real-time data to assess risks associated with different delivery locations, such as areas prone to natural disasters or high crime rates.
 
-Emergency Response Prediction:
-By analyzing historical data and community health trends, deep learning models can predict potential health emergencies in advance, allowing for proactive preparation.
-
 So on the above information this are Possible References: 
-Arulmurugan Ramu, Arunachalam Thangavelu, & Vinothini Kasinathan. (2021). Drone-based healthcare delivery system using deep learning. 2021 12th International Conference on Computing, Communication and Networking Technologies (ICCCNT).
+1. Arulmurugan Ramu, Arunachalam Thangavelu, & Vinothini Kasinathan. (2021). Drone-based healthcare delivery system using deep learning. 2021 12th International Conference on Computing, Communication and Networking Technologies (ICCCNT).
 
-Ramesh R, Rajashekar V, & Nair UA. (2021). Development of smart healthcare delivery system using drones with AI. 2021 International Conference on Emerging Trends in Communication, Control and Signal Processing (C2SP).
+2. Ramesh R, Rajashekar V, & Nair UA. (2021). Development of smart healthcare delivery system using drones with AI. 2021 International Conference on Emerging Trends in Communication, Control and Signal Processing (C2SP).
 
-Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement. arXiv preprint arXiv:1804.02767.
+3. Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement. arXiv preprint arXiv:1804.02767.
 
-Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Petersen, S. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529-533.
+4. Mnih, V., Kavukcuoglu, K., Silver, D., Rusu, A. A., Veness, J., Bellemare, M. G., ... & Petersen, S. (2015). Human-level control through deep reinforcement learning. Nature, 518(7540), 529-533.
 
-Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.
+5. Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.
+
+6. Tai L, Liu M (2016) Deep-learning in mobile robotics—from perception to control systems: a survey on why and why not. arXiv:1612.07139
+
+7. Matiisen T, Oliver A, Cohen T, Schulman J (2017) Teacher-student curriculum learning. arXiv preprint arXiv:1707.00183
+
+8. Bengio Y, Louradour J, Collobert R, Weston J (2009) Curriculum learning. In: Proceedings of the 26th annual international conference on machine learning. ACM, pp 41–48
+
 
