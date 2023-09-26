@@ -1,21 +1,8 @@
-Creating a drone system for delivering medications during health emergencies is a fascinating and impactful application of AI and deep learning. Deep learning can help drones 
-reach fully autonomous navigation by enabling them to interpret visual and other sensor data more accurately. Deep learning approaches in computer vision applications have made
-significant strides towards vehicular autonomy. The ability of training deep learning models to provide robust interpretation of visual and other sensor data in drones is critical 
-to the ability of drones to reach fully autonomous navigation. In addition, deep reinforcement learning for drone navigation using sensor data proposes a deep reinforcement 
-learning algorithm with incremental curriculum learning to improve training and an LSTM (long short-term memory networks) recurrent layer to allow the drone to learn from past experiences.
-
-Object Detection and Tracking:
-Implementing object detection and tracking using deep learning models like YOLO (You Only Look Once) or Faster R-CNN can help the drone identify and track individuals in need of medication 
-delivery. This technology ensures accurate targeting of recipients.
-
 There are several techniques including: 
 Transfer learning, multitask learning and curriculum learning. 
 We’ll be focusing on curriculum (sequence of training criteria) learning because it can begin learning in simulators with visual rendering and then the learned model can be fine-tuned in real-world applications.
 This is beneficial to our application; it allows us to use drone simulations to bootstrap the system and progress to drone flights. Curriculum learning starts with a simple task and gradually increases the 
 complexity of the task as learning progresses until we reach the training criterion of interest. It does not forget previously learned instances.
-
-Weather and Environmental Data Analysis:
-With this Point the deep learning can analyze weather and environmental data to determine optimal times for deliveries and ensure the safety of both the drone and recipients.
 
 Data Privacy and Security:
 With the Privacy and Security point it can assist in ensuring data privacy and security during the drone's operations by detecting unauthorized access or breaches.
@@ -25,9 +12,6 @@ Semantic segmentation models, such as U-Net or DeepLab, can be used to segment d
 
 Route Planning and Optimization:
 Deep reinforcement learning can be used to optimize drone flight paths based on factors like delivery locations, traffic, weather conditions, and battery life. This ensures efficient and safe deliveries.
-
-Real-time Image Analysis:
-Using deep learning models, the drone's camera feed can be analyzed in real time to detect emergencies, such as accidents or medical incidents, allowing for immediate response and assistance.
 
 Automated Landing and Takeoff:
 Deep learning algorithms can aid in automating the drone's landing and takeoff procedures, ensuring precise landings even in challenging environments.
