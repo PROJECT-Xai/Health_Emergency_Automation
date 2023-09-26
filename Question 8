@@ -3,24 +3,10 @@ Question number 8: Model It is clear how the AI Model that is developed will be 
 be necessary to maintain accuracy and reliability as the Projects evolves.
 With that being mentioned the follow aspects will give a better understanding in the Accuracy of the Drones.	
 
-1. Path Planning and Navigation Accuracy:
-Develop a testing environment that simulates real-world scenarios, including obstacles and different terrains.
-Use various metrics to measure navigation accuracy, such as the distance between the planned path and the actual path taken by the drone.
-Evaluate the model's ability to adjust its path in real-time to avoid obstacles and dynamically changing conditions.
-
 2. Medication Drop Accuracy:
 Set up target zones in your testing environment to represent delivery points.
 Measure accuracy by calculating the distance between the intended delivery point and the actual drop point of the medication.
 Implement mechanisms to adjust the drone's altitude and speed during the delivery to improve drop accuracy.
-
-3. Obstacle Detection and Avoidance:
-Integrate sensors (e.g., LiDAR, cameras) on the drone to detect obstacles.
-Create scenarios where obstacles are introduced in the drone's path during testing.
-Evaluate how well the AI model responds to obstacles, including whether it successfully avoids them or safely navigates around them.
-
-4. Weather Impact:
-Conduct tests in various weather conditions (e.g., wind, rain) to assess the drone's performance.
-Measure accuracy under adverse weather conditions to understand how weather affects navigation and drop accuracy.
 
 5. Communication Reliability:
 Simulate communication disruptions between the drone and the control center during testing.
