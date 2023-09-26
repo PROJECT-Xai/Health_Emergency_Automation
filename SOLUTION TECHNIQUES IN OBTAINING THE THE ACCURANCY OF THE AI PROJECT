@@ -3,13 +3,7 @@ clearly defined and are relevant to the solution.
 
 1. Route Optimization and Navigation:**
    - Technique: Implement AI algorithms for route optimization to find the most efficient paths for drones to reach their destinations.
-   - AI Improvement: The AI model can continuously analyze real-time data, including weather conditions, traffic patterns, and obstacles,
-   to dynamically adjust routes and ensure timely deliveries. This can improve accuracy by minimizing delivery delays and optimizing fuel consumption.
-
-2. Computer Vision for Obstacle Avoidance:**
-   - Technique: Integrate computer vision systems on drones to identify and avoid obstacles such as buildings, trees, and power lines.
-   - AI Improvement: The AI model can enhance obstacle detection accuracy by learning from diverse visual data. As the model encounters various scenarios, 
-   its accuracy in recognizing and avoiding obstacles will improve, resulting in safer and more reliable deliveries.
+   - AI Improvement: The AI model can continuously analyze real-time data to dynamically adjust routes and ensure timely deliveries. This can improve accuracy by minimizing delivery delays and optimizing fuel consumption.
 
 3. Automated Landing and Takeoff:**
    - Technique: Develop AI algorithms for autonomous landing and takeoff procedures for drones in diverse environments.
